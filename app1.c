@@ -1,5 +1,5 @@
 //This program will calculate the sum of the last two digits of some entered numbers
-
+//Open Cygwin, run gcc app1.c -o app1.exe to make an exe file, then run ./app1.exe to start the program
 int a,b,c;
 
 main(){
