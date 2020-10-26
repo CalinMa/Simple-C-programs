@@ -40,6 +40,6 @@ m=(b/res)%10;
 printf("\033[1;31m"); //set red color text
 if(w==0) printf("The number of digits is even");
 else printf("The middle digit is: %d",m );
-printf("\033[0m;"); // remove red color text 
+printf("\033[0m"); // remove red color text 
 
 }
